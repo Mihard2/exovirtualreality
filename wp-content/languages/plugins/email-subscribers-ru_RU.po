@@ -1,0 +1,379 @@
+# Translation of Plugins - Email Subscribers &amp; Newsletters &#8211; Simple and Effective newsletter system - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Email Subscribers &amp; Newsletters &#8211; Simple and Effective newsletter system - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-01 11:53:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Email Subscribers &amp; Newsletters &#8211; Simple and Effective newsletter system - Stable (latest release)\n"
+
+#: lite/includes/classes/class-es-newsletters.php:389
+#: lite/admin/class-email-subscribers-admin.php:211
+msgid "Template Preview"
+msgstr "Предпросмотр шаблона"
+
+#: lite/includes/classes/class-es-templates-table.php:116
+msgid "Preview Template"
+msgstr "Предварительно посмотреть шаблон"
+
+#: lite/includes/classes/class-es-templates-table.php:243
+msgid "Template Type"
+msgstr "Тип шаблона"
+
+#: lite/includes/class-email-subscribers-activator.php:58
+msgid "Set thumbnail"
+msgstr "Выбрать иконку"
+
+#: lite/includes/class-email-subscribers-activator.php:54
+msgid "No Templates found in Trash"
+msgstr "Шаблонов в корзине не найдено"
+
+#: lite/includes/class-email-subscribers-activator.php:51
+msgid "View Templates"
+msgstr "Просмотреть шаблоны"
+
+#: lite/includes/class-email-subscribers-activator.php:49
+msgid "New Templates"
+msgstr "Новые шаблоны"
+
+#: lite/includes/class-email-subscribers-activator.php:46
+#: lite/includes/class-email-subscribers-activator.php:47
+msgid "Add new Template"
+msgstr "Добавить новый шаблон"
+
+#: lite/includes/class-email-subscribers-activator.php:48
+msgid "Edit Templates"
+msgstr "Изменить шаблоны"
+
+#: lite/includes/class-email-subscribers-activator.php:44
+#: lite/includes/class-email-subscribers-activator.php:45
+#: lite/includes/class-email-subscribers-activator.php:50
+#: lite/admin/partials/dashboard.php:193
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: lite/includes/classes/class-es-templates-table.php:40
+msgid "Select your Email Template Type"
+msgstr "Выберите шаблон для письма"
+
+#: lite/includes/class-email-subscribers-activator.php:57
+msgid "Thumbnail (For Visual Representation only)"
+msgstr "Иконка (Только для визуального отображения)"
+
+#: lite/includes/class-email-subscribers-activator.php:52
+msgid "Search Templates"
+msgstr "Искать шаблоны"
+
+#: lite/includes/class-email-subscribers-activator.php:53
+msgid "No Templates found"
+msgstr "Шаблонов не найдено"
+
+#: lite/includes/classes/class-es-reports-table.php:484
+msgid "This is how the email you sent may look. <br>Note: Different email services (like gmail, yahoo etc) display email content differently. So there could be a slight variation on how your customer will view the email content."
+msgstr "Так могут выглядеть электронные письма, отправленные вами. <br>Заметьте: различные почтовые службы (например, gmail, yahoo и т. д.) отображают содержимое электронной почты по-разному. Возможны небольшие изменения в отображении писем у ваших клиентов."
+
+#: lite/admin/partials/help.php:36
+msgid "Rainmaker"
+msgstr "Плагин Rainmaker"
+
+#: lite/includes/classes/class-es-forms-table.php:313
+msgid "Description"
+msgstr "Описание"
+
+#: lite/includes/classes/class-es-post-notifications.php:322
+#: lite/includes/class-es-common.php:115
+msgid "Select Status"
+msgstr "Выбрать Статус"
+
+#: lite/includes/classes/class-es-campaigns-table.php:417
+#: lite/includes/classes/class-es-campaigns-table.php:463
+msgid "Sent"
+msgstr "Отправить"
+
+#: lite/includes/classes/class-es-templates-table.php:35
+#: lite/includes/classes/class-es-reports-table.php:192
+msgid "Post Notification"
+msgstr "Уведомление о Записях"
+
+#: lite/includes/pro-features.php:141
+msgid "User Roles"
+msgstr "Роли пользователей"
+
+#: lite/admin/class-email-subscribers-admin.php:209
+msgid "Post Notifications"
+msgstr "Уведомления о Записях"
+
+#: lite/includes/classes/class-es-reports-table.php:20
+#: lite/includes/classes/class-es-reports-table.php:37
+#: lite/includes/classes/class-es-reports-table.php:76
+#: lite/includes/pro-features.php:85
+#: lite/admin/class-email-subscribers-admin.php:233
+#: lite/admin/partials/dashboard.php:193
+msgid "Reports"
+msgstr "Отчёты"
+
+#. Author of the plugin
+#: lite/admin/partials/help.php:28
+msgid "Icegram"
+msgstr "Icegram"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.icegram.com/"
+msgstr "https://www.icegram.com/"
+
+#: lite/includes/classes/class-es-import-subscribers.php:251
+msgid "from here"
+msgstr "отсюда"
+
+#: lite/includes/classes/class-es-contacts-table.php:131
+msgid "Sync"
+msgstr "Синхронизация"
+
+#: lite/includes/classes/class-es-lists-table.php:541
+#: lite/includes/classes/class-es-export-subscribers.php:78
+msgid "Export"
+msgstr "Экспорт"
+
+#: lite/includes/classes/class-es-import-subscribers.php:286
+msgid "Import"
+msgstr "Импорт"
+
+#: lite/includes/workflows/admin/class-es-workflow-admin-edit.php:234
+#: lite/includes/workflows/admin/views/meta-box-save.php:53
+msgid "Save"
+msgstr "Сохранить"
+
+#: lite/includes/classes/class-es-templates-table.php:66
+#: lite/includes/classes/class-es-templates-table.php:71
+#: lite/includes/classes/class-es-templates-table.php:75
+msgid "Available Keywords"
+msgstr "Доступные ключевые слова"
+
+#. Plugin Name of the plugin
+msgid "Email Subscribers & Newsletters"
+msgstr "Email Subscribers & Newsletters"
+
+#: lite/includes/class-es-common.php:389
+msgid "No Custom Post Types Available"
+msgstr "Пользовательский тип Записей не доступен"
+
+#. Description of the plugin
+msgid "Add subscription forms on website, send HTML newsletters & automatically notify subscribers about new blog posts once it is published."
+msgstr "Добавляйте формы подписки на сайт, отправляйте новостные рассылки с поддержкой HTML и автоматически уведомляйте подписчиков о публикации новых записей в вашем блоге."
+
+#: lite/includes/classes/class-es-old-widget.php:83
+msgid "NO"
+msgstr "НЕТ"
+
+#: lite/includes/classes/class-es-old-widget.php:82
+msgid "YES"
+msgstr "ДА"
+
+#: lite/includes/classes/class-es-templates-table.php:244
+#: lite/includes/class-es-common.php:423
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: lite/includes/class-es-common.php:422
+msgid "Medium Size"
+msgstr "Средний размер"
+
+#: lite/includes/class-es-common.php:421
+msgid "Full Size"
+msgstr "Полный размер"
+
+#: lite/includes/classes/class-es-admin-settings.php:208
+msgid "Image Size"
+msgstr "Размер картинки"
+
+#: lite/includes/class-email-subscribers-activator.php:56
+#: lite/includes/classes/class-es-form-widget.php:11
+#: lite/includes/classes/class-es-old-widget.php:11
+#: lite/includes/classes/class-es-old-widget.php:12
+#: lite/includes/classes/class-es-widget.php:11
+#: lite/includes/class-email-subscribers.php:918
+#: lite/admin/class-email-subscribers-admin.php:186
+msgid "Email Subscribers"
+msgstr "Подписчики"
+
+#: lite/includes/classes/class-es-admin-settings.php:183
+msgid "Email Address"
+msgstr "E-mail адрес"
+
+#: lite/includes/classes/class-es-lists-table.php:538
+#: lite/includes/class-es-common.php:91
+msgid "Unconfirmed"
+msgstr "Не подтвержден"
+
+#: lite/includes/classes/class-es-lists-table.php:537
+#: lite/includes/classes/class-es-contacts-table.php:298
+#: lite/includes/class-es-common.php:92
+msgid "Unsubscribed"
+msgstr "Отписан"
+
+#: lite/includes/classes/class-es-import-subscribers.php:246
+msgid "Select CSV file"
+msgstr "Выбрать файл в формате CSV"
+
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_AdminView.php:146
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr "Группа"
+
+#: lite/includes/classes/class-es-handle-sync-wp-user.php:91
+#: lite/includes/classes/class-es-admin-settings.php:795
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: lite/includes/classes/class-es-admin-settings.php:193
+msgid "Enter the admin email addresses that should receive notifications (separated by comma)."
+msgstr "Введите e-mail адреса администратора для получения сообщений (разделенные запятой)"
+
+#: lite/includes/classes/class-es-reports-table.php:275
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: lite/includes/classes/class-es-reports-table.php:276
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: lite/includes/classes/class-es-reports-table.php:93
+msgid "Sent Date"
+msgstr "Дата отправки"
+
+#: lite/includes/classes/class-es-reports-table.php:94
+msgid "Viewed Status"
+msgstr "Статус просмотра"
+
+#: lite/includes/classes/class-es-reports-table.php:95
+msgid "Viewed Date"
+msgstr "Дата просмотра"
+
+#: lite/public/partials/class-es-shortcode.php:151
+#: lite/includes/classes/class-es-reports-table.php:91
+#: lite/includes/classes/class-es-export-subscribers.php:309
+#: lite/includes/classes/class-es-forms-table.php:341
+#: lite/includes/classes/class-es-admin-settings.php:180
+#: lite/includes/classes/class-es-contacts-table.php:706
+#: lite/includes/classes/class-es-contacts-table.php:958
+#: lite/includes/pro-features.php:659
+msgid "Email"
+msgstr "E-mail"
+
+#: lite/includes/workflows/fields/class-es-select.php:77
+msgid "Select"
+msgstr "Выбрать"
+
+#: lite/includes/classes/class-es-reports-table.php:256
+#: lite/includes/classes/class-es-newsletters.php:369
+#: lite/includes/classes/class-es-newsletters.php:378
+#: lite/includes/classes/class-es-newsletters.php:404
+msgid "Preview"
+msgstr "Просмотр"
+
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:92
+#: lite/includes/classes/class-es-reports-table.php:255
+#: lite/includes/classes/class-es-reports-table.php:339
+#: lite/includes/classes/class-es-lists-table.php:569
+#: lite/includes/classes/class-es-forms-table.php:848
+#: lite/includes/classes/class-es-contacts-table.php:993
+#: lite/includes/workflows/class-es-workflows-table.php:263
+#: lite/includes/workflows/class-es-workflows-table.php:324
+#: lite/includes/workflows/admin/views/meta-box-save.php:46
+#: lite/includes/workflows/admin/views/action.php:30
+msgid "Delete"
+msgstr "Удалить"
+
+#: lite/includes/workflows/admin/views/action.php:39
+msgid "Action"
+msgstr "Действие"
+
+#: lite/includes/classes/class-es-campaigns-table.php:483
+#: lite/includes/classes/class-es-reports-table.php:273
+msgid "Type"
+msgstr "Тип"
+
+#: lite/includes/classes/class-es-lists-table.php:77
+#: lite/includes/classes/class-es-lists-table.php:259
+#: lite/includes/classes/class-es-forms-table.php:85
+#: lite/includes/classes/class-es-post-notifications.php:270
+#: lite/includes/classes/class-es-contacts-table.php:342
+#: lite/includes/workflows/class-es-workflows-table.php:153
+msgid "Add New"
+msgstr "Добавить"
+
+#: lite/includes/libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+#: lite/includes/workflows/class-es-workflows-table.php:262
+#: lite/includes/workflows/admin/views/action.php:29
+msgid "Edit"
+msgstr "Редактировать"
+
+#: lite/includes/classes/class-es-reports-table.php:481
+msgid "Preview Email"
+msgstr "Просмотр письма"
+
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:133
+msgid "Cancel"
+msgstr "Отмена"
+
+#: lite/includes/classes/class-es-old-widget.php:80
+#: lite/includes/classes/class-es-widget.php:62
+msgid "Display Name Field"
+msgstr "Показывать поле Имя"
+
+#: lite/includes/classes/class-es-old-widget.php:87
+msgid "Subscriber Group"
+msgstr "Группа подписчиков"
+
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_AdminView.php:144
+#: lite/includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:97
+#: lite/includes/classes/class-es-campaigns-table.php:486
+#: lite/includes/classes/class-es-reports-table.php:92
+#: lite/includes/classes/class-es-reports-table.php:274
+#: lite/includes/classes/class-es-export-subscribers.php:311
+#: lite/includes/workflows/class-es-workflows-table.php:294
+#: lite/admin/partials/help.php:185
+msgid "Status"
+msgstr "Статус"
+
+#: lite/includes/classes/class-es-old-widget.php:76
+msgid "Short description about subscription form"
+msgstr "Краткое описание формы подписки"
+
+#: lite/includes/pro-features.php:81
+msgid "Roles"
+msgstr "Роли"
+
+#: lite/includes/classes/class-es-info.php:17 lite/admin/partials/help.php:79
+msgid "Help & Info"
+msgstr "Помощь"
+
+#: lite/includes/classes/class-es-old-widget.php:72
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: lite/admin/class-email-subscribers-admin.php:237
+#: lite/admin/partials/dashboard.php:195
+msgid "Settings"
+msgstr "Настройки"
+
+#: lite/public/partials/class-es-shortcode.php:130
+#: lite/includes/classes/class-es-forms-table.php:255
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: lite/public/partials/class-es-shortcode.php:152
+#: lite/includes/classes/class-es-campaigns-table.php:482
+#: lite/includes/classes/class-es-lists-table.php:535
+#: lite/includes/classes/class-es-forms-table.php:358
+#: lite/includes/classes/class-es-forms-table.php:818
+#: lite/includes/classes/class-es-admin-settings.php:171
+#: lite/includes/classes/class-es-admin-settings.php:174
+#: lite/includes/classes/class-es-contacts-table.php:957
+msgid "Name"
+msgstr "Имя"

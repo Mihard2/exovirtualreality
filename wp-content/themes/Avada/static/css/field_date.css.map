@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,aAAa;CACzB;;AAED,AAAA,qBAAqB,CAAC;EAClB,gBAAgB,EAAE,OAAO;CAC5B",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/date/field_date.scss"
+    ],
+    "names": [],
+    "file": "field_date.css"
+}

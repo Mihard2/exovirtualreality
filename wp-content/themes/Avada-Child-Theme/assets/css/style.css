@@ -1,0 +1,45 @@
+@media only screen and (min-width : 960px){
+    .post-slider-half-height{
+        height: 350px;
+    }
+}
+a.custom-verify-link{
+    padding: 11px 23px 11px 23px !important;
+    line-height: 16px;
+}
+a.custom-verify-link:hover{
+    background: #77b49b !important;
+    color: white !important;
+}
+.hidden{
+    display: none;
+}
+.custom-cf-submit-btn{
+    color: #474747 !important; ;
+    padding: 17px 40px !important;
+    line-height: 21px !important;
+    font-size: 18px !important;
+    background: #fefcfb !important;
+    border-color: #474747 !important;
+    border-width: 2px !important;
+    border-radius: 15px !important;
+    box-shadow: none!important;
+    font-family: Roboto !important;
+    font-weight: 300 !important;
+    font-style: normal !important;
+    letter-spacing: 0px !important;
+    border-style: solid !important;
+    text-transform: uppercase !important;
+    transition: all .2s !important;
+    display: inline-block !important;
+    position: relative !important;
+    zoom: 1 !important;
+    /*border: 1px solid transparent;*/
+    text-align: center !important;
+    box-sizing: border-box !important;
+
+}
+.custom-cf-submit-btn:hover{
+    color: white !important;
+    background-color: #474747 !important;
+}

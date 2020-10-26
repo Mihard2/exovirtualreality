@@ -1,0 +1,274 @@
+{
+    "RPT": {
+        "ScanTime": "0.28 sec.",
+        "ScanFile": "20200514_exovirtualrealitycom_48acfebe1aaa10958446_20200514185509_scan.json",
+        "Warnings": 1,
+        "Success": 5
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": false,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true,
+            "ALL": "Warn"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "C:\/www\/exovirtualreality\/.opcache",
+            "C:\/www\/exovirtualreality\/wp-content\/ai1wm-backups",
+            "C:\/www\/exovirtualreality\/wp-content\/backups-dup-pro",
+            "C:\/www\/exovirtualreality\/wp-content\/backupwordpress",
+            "C:\/www\/exovirtualreality\/wp-content\/bps-backup",
+            "C:\/www\/exovirtualreality\/wp-content\/cache",
+            "C:\/www\/exovirtualreality\/wp-content\/content\/cache",
+            "C:\/www\/exovirtualreality\/wp-content\/contents\/cache",
+            "C:\/www\/exovirtualreality\/wp-content\/infinitewp\/backups",
+            "C:\/www\/exovirtualreality\/wp-content\/managewp\/backups",
+            "C:\/www\/exovirtualreality\/wp-content\/old-cache",
+            "C:\/www\/exovirtualreality\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "C:\/www\/exovirtualreality\/wp-content\/updraft",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/aiowps_backups",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/backupbuddy_backups",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/backupbuddy_temp",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/ithemes-security\/backups",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/mainwp\/backup",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/pb_backupbuddy",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/snapshots",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/sucuri",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/wp-clone",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/wp_all_backup",
+            "C:\/www\/exovirtualreality\/wp-content\/uploads\/wpbackitup_backups",
+            "C:\/www\/exovirtualreality\/wp-content\/wfcache",
+            "C:\/www\/exovirtualreality\/wp-content\/wishlist-backup",
+            "C:\/www\/exovirtualreality\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "C:\/www\/exovirtualreality\/.htaccess",
+            "C:\/www\/exovirtualreality\/web.config",
+            "C:\/www\/exovirtualreality\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [
+                    "C:\/www\/exovirtualreality\/wp-snapshots",
+                    "C:\/www\/exovirtualreality\/.opcache",
+                    "C:\/www\/exovirtualreality\/wp-content\/backups-dup-pro",
+                    "C:\/www\/exovirtualreality\/wp-content\/ai1wm-backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/backupwordpress",
+                    "C:\/www\/exovirtualreality\/wp-content\/content\/cache",
+                    "C:\/www\/exovirtualreality\/wp-content\/contents\/cache",
+                    "C:\/www\/exovirtualreality\/wp-content\/infinitewp\/backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/managewp\/backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/old-cache",
+                    "C:\/www\/exovirtualreality\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "C:\/www\/exovirtualreality\/wp-content\/updraft",
+                    "C:\/www\/exovirtualreality\/wp-content\/wishlist-backup",
+                    "C:\/www\/exovirtualreality\/wp-content\/wfcache",
+                    "C:\/www\/exovirtualreality\/wp-content\/bps-backup",
+                    "C:\/www\/exovirtualreality\/wp-content\/cache",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/aiowps_backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/backupbuddy_temp",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/backupbuddy_backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/ithemes-security\/backups",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/mainwp\/backup",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/pb_backupbuddy",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/snapshots",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/sucuri",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/wp-clone",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/wp_all_backup",
+                    "C:\/www\/exovirtualreality\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcStatus": "Good",
+            "showCreateProc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good"
+        },
+        "Size": "1.78MB",
+        "Rows": "202",
+        "TableCount": 16,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_evf_entries": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_evf_entrymeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_evf_sessions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "176",
+                "Size": "1.05MB",
+                "USize": 1097728
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        },
+        "RawSize": 1867776
+    },
+    "LL": {
+        "TotalSize": "1.78MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}

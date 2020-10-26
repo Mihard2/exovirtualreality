@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,+BAD2B,CAC3B,KAAK,CAAC;EACF,cAAc,EAAE,GAAG;EACnB,KAAK,EAAE,IAAI;CAQd;;AAXL,AAKQ,+BALuB,CAC3B,KAAK,CAID,WAAW,CAAC;EACR,UAAU,EAAE,CAAC;EACb,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,GAAG;EACV,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/checkbox/field_checkbox.scss"
+    ],
+    "names": [],
+    "file": "field_checkbox.css"
+}

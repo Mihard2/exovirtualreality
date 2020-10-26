@@ -1,0 +1,163 @@
+/*
+Theme Name:   Saaya Blog
+Theme URI:    https://mysterythemes.com/wp-themes/saaya-blog/
+Author:       Mystery Themes
+Author URI:   https://mysterythemes.com/
+Description:  Saaya Blog is a child theme of Saaya which is the perfect WordPress theme entirely based on any kind of blogs such as travel blogs, food blogs, personal blogs and many more. Build an amazing website with the core features and resourceful design that let you feel the awesome experience. Works perfectly with Elementor and Visual Composer that will help you create an enchanting website. It has a minimalist design, responsive and looks great on any kind of devices. Saaya is Compatible with Gutenberg and GDPR, RTL and Translation ready, WooCommerce Compatible, SEO-Friendly and Compatible with all other popular plugins. Get free support at https://mysterythemes.com/support/forum/themes/free-themes/ and check the demo at http://demo.mysterythemes.com/saaya-landing/
+Version:      1.0.1
+License:      GNU General Public License v3 or later
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+Template:     saaya
+Text Domain:  saaya-blog
+Tags:         blog, portfolio, news, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, footer-widgets, post-formats, rtl-language-support, theme-options, translation-ready
+
+*/
+h1, h2, h3, h4, h5, h6,.site-title {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.site-branding {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+
+.mt-social-menu-wrapper {
+	float: none;
+	width: 100%;
+	background: #fff;
+	z-index: 999;
+}
+
+.is-sticky .mt-social-menu-wrapper{
+    box-shadow: 0 0px 7px rgba(0,0,0,0.1);
+}
+
+.is-sticky .mt-social-menu-wrapper::before,
+.is-sticky .mt-social-menu-wrapper::after {
+    width: 100%;
+    left: -100%;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    background: #fff;
+    box-shadow: -6px 0px 7px rgba(0,0,0,0.1);
+    z-index: 9999;
+    display: block;
+    content: "";
+}
+
+.is-sticky .mt-social-menu-wrapper:after{
+    left: auto;
+    right: -100%;
+     box-shadow: 6px 0px 7px rgba(0,0,0,0.1);
+}
+
+#site-navigation #primary-menu > li:first-child a {
+	padding-left: 0;
+}
+
+.banner-content-wrapper {
+    background-position: center center !important;
+	height: 600px;
+}
+
+.banner-title-btn-wrapper {
+	background: rgba(0,0,0,0.6);
+	left: 50%;
+	width: 60%;
+	top: 50%;
+	height: auto;
+	padding: 30px;
+	transform: translate(-50%,-50%);
+}
+
+.banner-sub-title {
+	font-size: 18px;
+}
+
+.banner-title {
+	color: #fff;
+	font-size: 62px;
+}
+
+.btn-wrapper a {
+	color: #fff;
+	font-size: 16px;
+}
+
+.entry-title {
+	font-size: 22px;
+}
+
+#secondary .widget .widget-title, .mt-related-post-title, #colophon .widget .widget-title {
+	font-size: 15px;
+}
+
+#top-footer {
+	padding: 100px 0 50px;
+}
+
+.trending-wrapper {
+	margin-bottom: 25px;
+}
+
+.trending-wrapper .wrap-label {
+	display: inline-block;
+	background: #212121;
+	color: #fff;
+	padding: 7px 20px;
+	margin-right: 20px;
+}
+
+.trending-wrapper .tags-wrapper {
+	display: inline-block;
+}
+
+.tags-wrapper a {
+	font-weight: 700;
+	color: #333;
+	margin-right: 16px;
+	font-size: 15px;
+}
+
+.tags-wrapper a::before {
+	content: "#";
+}
+
+.trending-wrapper .mt-container {
+	background: #f6f6f6;
+}
+
+@media (max-width: 768px) {
+.banner-title {
+	font-size: 36px;
+} 
+.banner-title-btn-wrapper {
+	padding: 10px;
+	width: 80%;
+}
+.banner-content-wrapper {
+	height: 450px;
+}
+}
+
+@media (max-width: 600px) {
+.trending-wrapper .mt-container {
+	background: none;
+}
+.trending-wrapper .wrap-label {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-right: 0;
+}
+.trending-wrapper .tags-wrapper {
+	display: block;
+	text-align: center;
+}
+
+.tags-wrapper a {
+	display: inline-block;
+}
+}

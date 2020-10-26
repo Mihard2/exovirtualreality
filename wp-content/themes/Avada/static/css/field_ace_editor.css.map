@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iCAD6B,CAC7B,YAAY,CAAC;EACT,QAAQ,EAAE,MAAM;CACnB;;AAHL,AAKI,iCAL6B,CAK7B,WAAW,CAAC;EACR,MAAM,EAAE,KAAK;EACb,qBAAqB,EAAE,GAAG;EAC1B,kBAAkB,EAAE,GAAG;EACvB,aAAa,EAAE,GAAG;CACrB;;AAVL,AAYI,iCAZ6B,CAY7B,WAAW,CAAC;EACR,OAAO,EAAE,YAAY;CACxB",
+    "sources": [
+        "../../includes/lib/inc/redux/custom-fields/ace_editor/field_ace_editor.scss"
+    ],
+    "names": [],
+    "file": "field_ace_editor.css"
+}

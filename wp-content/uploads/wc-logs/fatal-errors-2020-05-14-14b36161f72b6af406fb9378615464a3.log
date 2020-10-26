@@ -1,0 +1,22 @@
+2020-05-14T22:21:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function avada_change_builder_default_args(), 2 passed in C:\www\exovirtualreality\wp-includes\class-wp-hook.php on line 287 and exactly 3 expected in C:\www\exovirtualreality\wp-content\themes\Avada\includes\fusion-shared-options.php:131
+Stack trace:
+#0 C:\www\exovirtualreality\wp-includes\class-wp-hook.php(287): avada_change_builder_default_args(Array, 'fusion_button')
+#1 C:\www\exovirtualreality\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\www\exovirtualreality\wp-content\plugins\fusion-builder\shortcodes\fusion-button.php(111): apply_filters('fusion_builder_...', Array, 'fusion_button')
+#3 C:\www\exovirtualreality\wp-includes\shortcodes.php(343): FusionSC_Button->render(Array, 'READ MORE', 'fusion_button')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\www\exovirtualreality\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(fusion...', 'do_shortcode_ta...', '\n<p style="font...')
+#6 C:\www\exovirtualreality in C:\www\exovirtualreality\wp-content\themes\Avada\includes\fusion-shared-options.php on line 131
+
+2020-05-14T22:22:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function avada_change_builder_default_args(), 2 passed in C:\www\exovirtualreality\wp-includes\class-wp-hook.php on line 287 and exactly 3 expected in C:\www\exovirtualreality\wp-content\themes\Avada\includes\fusion-shared-options.php:131
+Stack trace:
+#0 C:\www\exovirtualreality\wp-includes\class-wp-hook.php(287): avada_change_builder_default_args(Array, 'fusion_button')
+#1 C:\www\exovirtualreality\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\www\exovirtualreality\wp-content\plugins\fusion-builder\shortcodes\fusion-button.php(111): apply_filters('fusion_builder_...', Array, 'fusion_button')
+#3 C:\www\exovirtualreality\wp-includes\shortcodes.php(343): FusionSC_Button->render(Array, 'READ MORE', 'fusion_button')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\www\exovirtualreality\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(fusion...', 'do_shortcode_ta...', '\n<p style="font...')
+#6 C:\www\exovirtualreality in C:\www\exovirtualreality\wp-content\themes\Avada\includes\fusion-shared-options.php on line 131
+
+2020-05-14T22:31:40+00:00 CRITICAL require_once(): Failed opening required 'C:/www/exovirtualreality/wp-content/plugins/fusion-builder/shortcodes/components/author.php' (include_path='.;C:\php\pear') in C:\www\exovirtualreality\wp-content\plugins\fusion-builder\inc\class-fusion-template-builder.php on line 1356
+

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,qCADiC,CACjC,cAAc,CAAC;EACX,OAAO,EAAE,YAAY;CACxB;;AAHL,AAII,qCAJiC,CAIjC,QAAQ,CAAC;EACL,YAAY,EAAE,IAAI;CACrB;;AAGL,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAC/B,AACI,qCADiC,CACjC,cAAc,CAAC;IACX,OAAO,EAAE,KAAK;IACd,UAAU,EAAE,iBAAiB;GAChC",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/color_gradient/field_color_gradient.scss"
+    ],
+    "names": [],
+    "file": "field_color_gradient.css"
+}

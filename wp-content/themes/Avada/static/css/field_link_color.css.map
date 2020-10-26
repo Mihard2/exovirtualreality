@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iCAD6B,CAC7B,UAAU,CAAC;EACP,OAAO,EAAE,YAAY;EACrB,aAAa,EAAE,IAAI;EACnB,cAAc,EAAE,GAAG;CACtB",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.scss"
+    ],
+    "names": [],
+    "file": "field_link_color.css"
+}

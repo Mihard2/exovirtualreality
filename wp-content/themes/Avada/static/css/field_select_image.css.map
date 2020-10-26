@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mCAAmC,CAAC;EAChC,UAAU,EAAE,GAAG;EACf,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,CAAC;CACnB;;AAED,AAAA,0BAA0B,CAAC;EACvB,UAAU,EAAE,KAAK;EACjB,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,GAAG;EACZ,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,iBAAiB;EACzB,UAAU,EAAE,OAAO;EACnB,kBAAkB,EAAE,GAAG;EACvB,oBAAoB,EAAE,GAAG;EACzB,qBAAqB,EAAE,GAAG;EAC1B,aAAa,EAAE,GAAG;CACrB",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/select_image/field_select_image.scss"
+    ],
+    "names": [],
+    "file": "field_select_image.css"
+}

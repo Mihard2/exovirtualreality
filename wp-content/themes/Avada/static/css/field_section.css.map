@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iBADa,CACb,4BAA4B,CAAC;EACzB,KAAK,EAAE,GAAG;EACV,WAAW,EAAE,EAAE;CAClB;;AAJL,AAMI,iBANa,CAMb,mBAAmB,CAAC,EAAE,AAAA,cAAc,CAAC,EAAE,AAAA,cAAc,CAAC;EAClD,OAAO,EAAE,cAAc;CAC1B;;AARL,AAUI,iBAVa,CAUb,EAAE,CAAC;EACC,UAAU,EAAE,IAAI;CACnB;;AAZL,AAeQ,iBAfS,CAcb,4BAA4B,GAAG,KAAK,GAAG,EAAE,AACpC,YAAY,CAAC;EACV,OAAO,EAAE,IAAI;CAChB;;AAjBT,AAmBQ,iBAnBS,CAcb,4BAA4B,GAAG,KAAK,GAAG,EAAE,AAKpC,eAAgB,CAAA,CAAC,EAAE;EAChB,aAAa,EAAE,CAAC;CACnB",
+    "sources": [
+        "../../includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/section/field_section.scss"
+    ],
+    "names": [],
+    "file": "field_section.css"
+}
